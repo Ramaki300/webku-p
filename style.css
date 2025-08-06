@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: navy;
+}
+
+img.foto {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  color: #003366;
+  margin-top: 30px;
+}
+
+ul, ol {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #666;
+}
